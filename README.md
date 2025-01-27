@@ -1,12 +1,12 @@
-# Projeto de Estudo: API Avançada com .NET
+# Projeto de Estudo: API Simples com .NET
 
-Este repositório foi criado para organizar os estudos e práticas realizados com base no curso **API Avançada com .NET**. O foco é aprender e aplicar boas práticas de desenvolvimento para criar aplicações mais limpas, desacopladas e profissionais.
+Este repositório foi criado para organizar os estudos e práticas realizados com base no curso **API Simples com .NET**. O foco é aprender e aplicar boas práticas de desenvolvimento para criar aplicações mais limpas, desacopladas e profissionais.
 
 ## 🚀 Objetivo do Projeto
 Desenvolver uma API utilizando técnicas modernas e ferramentas avançadas, compreendendo conceitos fundamentais e aplicando na prática:
 - **Injeção de Dependência**
-- **JWT (JSON Web Token)**
 - **REST**
+- **Uso de banco de dados**
 - **Swagger**
 
 ## 🔧 Ferramentas e Tecnologias Utilizadas
